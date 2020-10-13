@@ -1,4 +1,4 @@
-# Sea_Battle on C++ and OpenGL
+# Sea battle on C++ and OpenGL
 
 Sea battle game (unfinished)
 
